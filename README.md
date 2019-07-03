@@ -1,2 +1,0 @@
-# ReactInputTutorial
-Created with CodeSandbox

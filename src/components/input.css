@@ -1,0 +1,14 @@
+li {
+  list-style: none;
+  margin: 20px;
+}
+.textbox {
+  margin: 20px;
+}
+
+#round {
+  border-radius: 50%;
+}
+#round:hover {
+  background-color: black;
+}
